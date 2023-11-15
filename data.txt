@@ -1,0 +1,1070 @@
+Data Science, Machine Learning & AI Course | FC Training
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ London : 0203 7908674
+
+
+
+
+
+
+ Birmingham : 0121 2959988
+
+
+
+
+
+
+ Manchester : 0161 5139535
+
+
+
+
+
+
+
+
+ info@fctraining.org
+ Portal
+ Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+Home
+About
+
+Why Us
+Accountancy Services
+Accountancy Services Fee
+Accountancy Training Process
+Policies
+Testimonials
+FAQs
+Funded Courses
+SAP
+Events
+
+
+Our Trainings
+
+Bookkeeping & VAT Return
+Bookkeeping & Payroll
+Management Accounts
+Accounts Assistant
+Final Accounts
+Complete Financial Analyst Course
+Financial Analyst Course
+Build Your Own Training
+IAB
+
+IAB Bookkeeping
+IAB Payroll
+
+
+
+
+AAT
+
+AAT Q2022
+
+Level 1 Access Award In Business Skills
+Level 1 Award In Bookkeeping Qualification
+Level 2 Foundation Certificate In Bookkeeping
+Level 2 Foundation Certificate In Accounting
+Level 3 Advanced Diploma In Accounting
+Level 4 Professional Diploma In Accounting
+
+
+AAT AQ2016
+
+AAT Level 2
+AAT Level 3
+AAT Level 4
+
+
+AAT Remote Invigilation
+AAT Remote Assessment Booking
+
+
+
+IT Courses
+
+IT Training
+
+Data Science, Machine Learning, and AI
+Data Analysis
+Cyber Security
+
+
+Business Analysis Course
+Complete Digital Marketing Training
+MS Office Course
+
+
+
+
+Short Courses
+
+Audit
+Xero
+QuickBooks
+Sage
+Management Accounts
+Advance Excel
+Bookeeping
+VAT
+Payroll
+CIS
+Control Accounts
+Personal Tax Return
+
+
+
+Corporate Training
+Contact Us
+
+  
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+  Portal 
+  info@fctraining.org 
+  0203 790 8674 
+
+
+      
+
+
+ 
+
+
+
+
+
+
+
+Data Science, Machine Learning, and AI Course
+
+
+Home
+Digital Academy
+Data Science, Machine Learning, and AI Course
+
+
+
+
+
+
+Our IT courses are constructed keeping in mind the jobs available in the IT market, by making our students work on actual data. These courses offer complete working knowledge of IT domain, making you think like a developer, with all essential concepts taught in universities with years of practical tips and working strategies included. Our courses prepare our students to tackle more than required tasks asked by companies in their job descriptions making you highly employable. Once our students complete one of these courses, they can work on any similar tool that might come out in the future depending upon the type of course they have undertaken.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview
+
+
+Modules
+
+
+Skills
+
+
+Career
+
+
+
+
+
+
+
+
+Course Overview
+The data science course provides a comprehensive overview of essential topics including Mathematics, SQL, Python, and Machine Learning. Students will learn mathematical concepts such as probability, statistics, and linear algebra, which are critical in data analysis. In addition, they will develop skills in SQL, a programming language used for managing and manipulating databases, which is vital for data retrieval and storage. Students will also learn Python, a versatile programming language used extensively in data science, to write code and develop analytical models. Lastly, students will gain expertise in Machine Learning, a branch of Artificial Intelligence (AI) that enables systems to learn from data and improve over time, which is crucial in predictive modeling and pattern recognition. Overall, the data science course aims to equip students with the knowledge and skills required to succeed in the rapidly growing field of data science.
+
+
+Suitable For
+This course is suitable for
+
+
+
+
+
+Individuals interested in learning about data analysis and machine learning.
+
+
+
+
+
+
+
+Beginners who are looking to gain a strong foundation in essential topics such as mathematics, programming, and machine learning.
+
+
+
+
+
+
+
+Those with some prior experience in the field who want to enhance their skills and knowledge.
+
+
+
+
+
+
+
+Students who want to develop analytical models and make data-driven decisions.
+
+
+
+
+Certification
+
+
+
+
+
+Certification in Data Science, Machine Learning, and AI
+
+
+
+
+
+
+
+Course Modules
+
+
+
+
+Mathematics & Statistics
+
+
+
+Mathematics and statistics are crucial in machine learning, providing tools for creating models that learn from data and make accurate predictions. Linear algebra, calculus, and probability theory are used in algorithms, while statistics analyzes data, identifies patterns, and predicts outcomes. Strong knowledge in these areas is necessary for success in machine learning.
+1. Mathematics
+
+Linear Functions
+Linear Algebra
+Vectors
+Matrices
+Tensors
+
+2. Statistics
+
+Descriptive
+Variability
+Distribution
+Probability
+
+
+
+
+
+
+
+SQL (Database)
+
+
+
+SQL is critical in machine learning, allowing efficient data retrieval and analysis from relational databases. It ensures accurate analysis of large data sets, with solid understanding essential for success.
+
+DDL and DML in MySQL and setup
+ERD Diagrams and Relational Mapping
+Data normalisation
+Basic Queries
+Database Manipulation
+Table Manipulation
+Relational Algebra
+Advanced SQL - Joining, Subquery, Views
+Database Security
+Multiple Activities to Perform
+
+
+
+
+
+
+
+Python
+
+
+
+Python is a widely-used programming language in machine learning. It offers powerful libraries, tools, and frameworks for data analysis, modeling, and visualization. Python's simplicity and flexibility make it a popular choice for building machine learning models and deploying them in real-world applications.
+
+Python Setup and What is Python?
+Data Types and Syntax
+Comparison Operators
+Python Loop
+Python Statements
+Logical Operators
+Methods and Functions
+Error and Exception Handling
+Modules Packages and libraries
+Debugging
+Advanced python Modules (DateTime)
+File Management
+Multiple Activities to Perform
+Multiple Projects to Build
+
+
+
+
+
+
+
+Data Science/ Machine Learning
+
+
+
+Machine learning is a subset of artificial intelligence that enables computers to learn from data and make predictions or decisions without being explicitly programmed. It involves the use of algorithms, statistical models, and data to build predictive models and uncover insights from large datasets.
+
+Data Preprocessing
+
+Supervised Learning
+
+Regression Models
+                                                                
+Simple Linear Regression
+Multiple Linear Regression
+Polynomial Regression
+Random Forest Regression
+Topics such as
+                                                                        
+Assessing  a Regression Model
+Bias vs Variance
+Regularisation
+Gradient Descent
+
+
+
+
+Classification Models
+                                                                
+Decision Tree Classification
+K-Nearest Neighbor
+Logistic Regression
+Naïve Bayes
+Random Forest Classification
+Support Vector Machines
+Additional Topics
+                                                                        
+Assessing a Classification Model
+Adaboost
+Gradient Boosting
+XGBoost
+Grid Search CV
+
+
+
+
+
+Unsupervised Learning
+
+Clustering Models
+                                                                
+Hierarchical
+K-Means Clustering
+
+
+Association
+                                                                
+Apriori
+Eclat
+
+
+Build Dashboards for Data Visualisation
+Solved Sample Code Files for easy practice
+Access to Multiple Datasets
+7+ Real world data projects
+
+
+
+
+
+
+
+A.I.
+
+
+
+
+Reinforcement Learning
+                                                                
+Thompson Sampling
+Upper Confidence Bound (UCB)
+Q-Learning
+
+
+Natural Language Processing (NLP)
+Deep Learning
+                                                                
+Artificial Neural Networks (ANN)
+Convolutional Neural Networks (CNN)
+Recurrent Neural Networks (RNN)
+Additional Topic
+                                                                        
+LSTM
+
+
+
+
+Solved Sample Code Files for easy practice
+Access to Multiple Datasets
+2+ Master A.I. Projects
+
+
+
+
+ADDON Module:
+
+
+
+GIT
+
+
+
+Learn the fundamentals of version control via git and create your amazing looking developer portfolio on github to showcase your code or share your code with the world.
+
+
+
+
+
+
+Python GUI and SQLite
+
+
+
+Learn to create custom custom graphical user interface applications using one of the widely used library, TkInter. You will also learn to use the inbuild database within python, SQLite. 
+
+
+
+
+
+
+
+
+
+Skills You Will Gain
+The students will acquire following set of skills after completing this Training Course.
+
+
+
+
+
+
+
+Ability to use Mathematical Concepts
+
+
+
+
+
+
+
+Proficiency in SQL
+
+
+
+
+
+
+
+Become an expert in Python
+
+
+
+
+
+
+
+Expertise in Machine Learning
+
+
+
+
+
+
+
+Ability to Analyze and Visualize Data
+
+
+
+
+
+
+
+
+
+Data Cleaning and Preprocessing Techniques
+
+
+
+
+
+
+
+Machine Learning Algorithms
+
+
+
+
+
+
+
+Artificial Intelligence Algorithams
+
+
+
+
+
+
+
+Data ethics and Data management and Analysis
+
+
+
+
+
+
+
+
+
+Career Path
+
+
+
+
+
+
+
+Data Analyst
+
+
+
+
+
+
+
+Machine Learning Engineer
+
+
+
+
+
+
+
+Data Scientist
+
+
+
+
+
+
+
+
+
+Python Developer
+
+
+
+
+
+
+
+Database Administrator
+
+
+
+
+
+
+
+
+
+
+Machine Learning Projects
+
+
+
+
+
+
+
+Weather Prediction (Time Series Data)
+
+
+
+
+
+
+
+Predicting cancer malignant or benign based on Data
+
+
+
+
+
+
+
+Predicting Stock Prices
+
+
+
+
+
+
+
+
+
+Hand Written Digit Recognition
+
+
+
+
+
+
+
+Wine Quality Prediction
+
+
+
+
+
+
+
+Marketing Data Analysis
+
+
+
+
+
+
+
+Taxi Fare Prediction
+
+
+
+
+
+
+Master Projects
+
+
+
+
+A.I. Plays Super Mario Game
+
+
+
+A project on Reinforcement Learning to display your practical skills to the RECRUITER.
+
+
+
+
+
+
+A.I. Sales Agent
+
+
+
+A project on Reinforcement Learning, Deep Learning and Natural Language Processing (NLP) Learning to display your practical skills to the RECRUITER.
+
+
+
+
+
+
+Text-to-Image & Image-to-Text Generation Tool
+
+
+
+A project on Large Language Model (LLM) to generate image from a prompt given (Text-to-Image) and to generate the description of the image from a given image (Image-to-Text).
+
+
+
+
+
+
+
+
+
+
+If you would like us to build your website or contribute to your project, contact us @ info@futureconnectmedia.com or visit futureconnectmedia.com to learn more.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This course includes:
+
+Learn Python, SQL (Database)
+Learn Data Science and Machine Learning Skills
+Learn some popular software such as VS Code, XAMPP/MAMPP, Anaconda
+Learn some popular libraries such as ScikitLearn and TensorFlow(Keras)
+Creative Activities, Lectures and more
+Masters level Course Content with Hands-on Training
+Multiple Projects to test your skills upon
+Join the leading Industry with over 20 billion Pounds of investment
+Online Practical Training
+Flexible Payment Structure
+CV Support
+
+
+
+Book Free Consultation Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get In Touch With Us to start Immediately or learn more
+
+
+
+
+
+
+
+
+
+Make a Call
+ 020 3790 8674
++44 7305 157786 
+
+
+
+
+
+
+
+WhatsApp Now
+ +44 7305 157786
+
+
+
+
+
+
+
+Drop A Mail
+info@fctraining.org
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Related Courses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Analysis Course
+
+
+
+3-5 Months
+50 Sessions
+Advanced
+
+
+
+
+
+Enroll Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data Science, Machine Learning, and AI
+
+
+
+3-5 Months
+50 Sessions
+Advanced
+
+
+
+
+
+Enroll Now
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complete Digital Marketing
+
+
+
+4 Months
+40 Sessions
+Advanced
+
+
+
+
+
+Enroll Now
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Book Free Consultation or Call on 0203 790 8674  Contact Us Today 
+
+
+
+
+
+
+
+
+
+ 
+
+Looking for top-quality training programs and AAT qualifications at competitive prices? Look no further than Future Connect Training and Recruitment! Our award-winning courses provide you with the skills and qualifications you need to succeed as an accounting professional and stand out to employers.
+Our training includes in-depth instruction in Xero, QuickBooks, Sage, and Payroll, all integrated with intensive AAT studies. With our comprehensive approach, you'll be fully prepared for success in your career.
+
+
+
+
+
+
+AAT Courses
+
+Level 1 Access Award In Business Skills
+Level 1 Award In Bookkeeping Qualification
+Level 2 Foundation Certificate In Bookkeeping
+Level 2 Foundation Certificate In Accounting
+Level 3 Advanced Diploma In Accounting
+Level 4 Professional Diploma In Accounting
+
+
+
+
+
+Practical Accountancy
+
+Bookkeeping & VAT Training
+Bookkeeping & Payroll Training
+Accounts Assistant Training
+Management Accounts Training
+Final Accounts Training
+Build Your Own Training
+AAT Courses In London
+AAT Courses In Birmingham
+AAT Courses In Manchester
+
+
+
+
+
+Other Locations
+
+Accountancy Courses In South London
+Accountancy Courses In East London
+Accountancy Courses In North London
+Accountancy Courses In West London
+Online Accounting Courses
+
+
+
+
+
+
+Other Courses
+
+Sage Training
+Xero Training
+QuickBooks Training
+Payroll Training
+
+ 
+Online Consultation
+
+Zoom Meeting
+Anydesk Download
+Google Meet
+
+ 
+Working Hours
+
+Mon - Sat : 09:00 AM - 06:00 PM 
+
+
+
+
+
+
+
+
+
+
+
+
+Organisation # 08851253Company: Future Connect Training and Recruitment Ltd.
+
+2023 © Copyright Future Connect. All Rights Reserved.Privacy Policy
+
